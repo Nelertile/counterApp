@@ -15,4 +15,4 @@ Counter App has 5 Main functions, these are:
 
 ### Download
 
-Download this app on its [Official Github Page](https://github.com/NotToxicDev/counterApp/releases), then Un-Zip the zip archive and open "Counter App"
+Download this app on its [Official Github Page](https://github.com/NotToxicDev/counterApp/releases), then Un-Zip the zip archive and open "Counter App.exe"
