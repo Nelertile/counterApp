@@ -1,4 +1,5 @@
-## What is this?
+## Counter App
+### What is this?
 
 Counter App is what it says, a simple counter app designed for a quiz / party game type point system!
 
