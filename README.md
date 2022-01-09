@@ -5,6 +5,8 @@ Counter App is what it says, a simple counter app designed for a quiz / party ga
 
 ### How to use / What functions does it have?
 
+[Click me](https://www.youtube.com/watch?v=3Ysz1m-cNAs) for a video guide.
+
 Counter App has 5 Main functions, these are:
 
 1. +1 - Add 1 to points
